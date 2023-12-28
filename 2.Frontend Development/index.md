@@ -8,7 +8,7 @@ This guide provides a comprehensive overview of frontend development for web app
 2. CSS Basics
 3. JavaScript Basics
 4. Responsive Design
-5. Frontend Frameworks
+5. Frontend Frameworks i.e Bootstrap
 
 ## HTML Basics
 
